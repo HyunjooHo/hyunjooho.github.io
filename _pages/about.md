@@ -30,18 +30,17 @@ latest_posts:
 
 # Hyunjoo (Nora) Ho
 
-Hello! I am a second-year PhD student in Geomatics Engineering at Purdue University, advised by Prof. Jinha Jung  in the Geospatial Data Science Lab (GDSL).
+Hello! I am a second-year PhD student in Geomatics Engineering at Purdue University, working with Prof. Jinha Jung in the [Geospatial Data Science Lab (GDSL)](https://gdsl.org/). My research focuses on using remote sensing imagery and LiDAR to monitor environments and infrastructure that are too vast, too remote, or too time-intensive to assess through field surveys alone.
 
-My research focuses on using remote sensing imagery and LiDAR to monitor environments and infrastructure that are too vast, too remote, or too time-consuming to survey through field methods alone. More broadly, I am interested in bridging the gap between raw sensor data and actionable spatial insights for effective decision support.
+Before pursuing my PhD, I earned my BS and MS in Civil and Environmental Engineering from Yonsei University in Seoul, South Korea. I also worked as a researcher at the Seoul Institute, where I contributed to the renewal of the Seoul Biotope Map, an official dataset used for environmental impact assessment and urban development regulation. This experience deepened my interest in developing more automated approaches to environmental monitoring and supporting timely, evidence-based decision-making in rapidly changing environments.
 
-Before pursuing my PhD, I earned my BS and MS in Civil and Environmental Engineering from Yonsei University in Seoul, South Korea. I also worked as a researcher at the Seoul Institute, where I contributed to the renewal of the Seoul Biotope Map, an official dataset used for environmental impact assessment and urban development regulation. This experience deepened my interest in automating environmental monitoring to support timely, evidence-based decision-making in rapidly changing environments.
+Here’s how to pronounce my name: **Hyunjoo** = “Hyun-Joo”
 
-## Research Interests
+- **Hyun**: like “yon” in *beyond* with an “h” in front, or a quick “hee-yun”
+- **Joo**: like “ju” in *juice*
 
-- UAV imagery and LiDAR for environmental monitoring
-- Geospatial data acquisition and integration
-- Automated information extraction from geospatial data
-- Spatial analysis for decision support
+Feel free to call me **Nora** if that is easier!
+
 
 ## Current Research
 
