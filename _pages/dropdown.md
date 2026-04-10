@@ -1,10 +1,10 @@
 ---
 layout: page
 title: submenus
-nav: false
+nav: true
 nav_order: 3
 dropdown: true
-search: false
+search: true
 children:
   - title: bookshelf
     permalink: /books/
