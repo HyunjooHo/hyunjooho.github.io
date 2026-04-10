@@ -4,6 +4,7 @@ title: submenus
 nav: false
 nav_order: 3
 dropdown: true
+search: false
 children:
   - title: bookshelf
     permalink: /books/
