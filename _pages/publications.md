@@ -6,12 +6,12 @@ description: # A list of my my publications can be found on my <a href="https://
 nav: true
 nav_order: 1
 ---
-## Publications
+### Publications
 
-* J. Lee, **H. Ho**, S. Yoo, Y. Kwon, and H. G. Sohn, “Distant Object Localization with a Single Image Obtained from a Smartphone in an Urban Environment”, *International Journal of Applied Earth Observation and Geoinformation*, Vol. 111 (2022)
-* J. Kim, **H. Ho**, M.-J. Um, and Y. Kim, “Spatial and Temporal Variations in the Water Use Efficiency and its Drought Signal on the Korean Peninsula using MODIS-derived Products”, *Korean Journal of Remote Sensing*, Vol. 34, No. 3, 553-564, (2018) [In Korean]
+* J. Lee, **H. Ho**, S. Yoo, Y. Kwon, and H. G. Sohn, “Distant Object Localization with a Single Image Obtained from a Smartphone in an Urban Environment”, *International Journal of Applied Earth Observation and Geoinformation*, Vol. 111 (2022) [https://doi.org/10.1016/j.jag.2022.102820](https://doi.org/10.1016/j.jag.2022.102820)
+* J. Kim, **H. Ho**, M.-J. Um, and Y. Kim, “Spatial and Temporal Variations in the Water Use Efficiency and its Drought Signal on the Korean Peninsula using MODIS-derived Products”, *Korean Journal of Remote Sensing*, Vol. 34, No. 3, 553-564, (2018) [In Korean] [https://doi.org/10.7780/kjrs.2018.34.3.10](https://doi.org/10.7780/kjrs.2018.34.3.10)
 
-## Conference Presentations
+### Conference Presentations
 
 * W. Choi, S. Yoo, **H. Ho**, and H. G. Sohn, “Extraction of Visible Area within CCTV Image through Point Cloud acquired by MMS”, *Proceedings of Korean Society for Geospatial Information Science*, Busan, Korea (2022)
 * J. Lee, **H. Ho**, C. Kim, Y. Kwon, and H. G. Sohn, “Object Localization using Monocular Image from Smart Device”, *Korean Society of Civil Engineers, KSCE 2021 Conventions*, Gwangju, Korea (2021)
