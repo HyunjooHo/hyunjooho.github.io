@@ -38,25 +38,7 @@ Hello! I am a second-year PhD student in **Geomatics Engineering** at **Purdue U
 
 My research focuses on using remote sensing imagery and LiDAR to monitor environments and infrastructure where field surveys are constrained by scale, accessibility, or time. I am interested in developing automated approaches to turn raw sensor data into spatial information for more efficient monitoring and timely, evidence-based decision-making.
 
----
 
-<div class="row mt-5 align-items-center">
-  <div class="col-md-4 text-center">
-    <!-- 연구 관련 이미지나 아이콘 -->
-    <i class="fas fa-tree fa-7x text-success opacity-25"></i>
-    <!-- 만약 이미지가 있다면 아래 주석 해제 -->
-    <!-- <img src="assets/img/research_thumb.jpg" class="img-fluid rounded z-depth-1" alt="Research Image"> -->
-  </div>
-  <div class="col-md-8">
-    <h3>Current Research</h3>
-    <p>
-      My work investigates <strong>emergent trees</strong> in the <strong>Ecuadorian Amazon</strong> using high-resolution <strong>UAS LiDAR</strong>. 
-    </p>
-    <p class="text-justify" style="font-size: 0.95rem;">
-      By moving beyond conventional heuristic definitions, this research develops a <strong>data-driven framework</strong> to quantify individual-tree emergence. I am currently examining how these identified structural patterns differ from traditional approaches to improve our understanding of tropical forest dynamics.
-    </p>
-  </div>
-</div>
 
 ---
 ### **Current Research**
