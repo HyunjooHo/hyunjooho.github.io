@@ -6,9 +6,7 @@ nav: true
 nav_order: 2
 ---
 
-## Curriculum Vitae
-
-My CV is available at the link below:
+My Curriculum Vitae is available below:
 
 <div class="cv-embed" style="height: 800px;">
   <iframe src="{{ '/assets/pdf/Hyunjoo_Ho_CV.pdf' | relative_url }}" width="100%" height="100%" style="border: none;"></iframe>
