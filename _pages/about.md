@@ -7,7 +7,7 @@ subtitle: PhD Student in Geomatics Engineering | Purdue University
 profile:
   align: right
   image: prof_pic.jpeg 
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p><a href="mailto:ho274@purdue.edu">your_email@purdue.edu</a></p>
     <p><a href="https://www.linkedin.com/in/hyunjooho/">LinkedIn</a></p>
