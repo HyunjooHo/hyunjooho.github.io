@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Research Updates
-description: A summary of my ongoing research and a list of my publications.
+description: # A summary of my ongoing research and a list of my publications.
 nav: true
 nav_order: 1
 ---
