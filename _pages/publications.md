@@ -6,13 +6,6 @@ description: A summary of my ongoing research and a list of my publications.
 nav: true
 nav_order: 1
 ---
-## Current Research: Emergent Trees in the Amazon {#research}
-
-My ongoing research uses **UAS LiDAR and multispectral imagery** to investigate emergent trees in the Ecuadorian Amazon, a prominent yet understudied component of tropical forest structure. The high resolution of these data makes it possible to quantify tree emergence relative to the surrounding canopy at the individual-tree level.
-
-This work develops a **data-driven framework for identifying emergent trees**, moving beyond heuristic threshold-based definitions. I am also examining how the spatial and structural patterns of emergent trees identified by this framework differ from those derived using conventional heuristic approaches.
-
----
 ## Publications
 
 * J. Lee, **H. Ho**, S. Yoo, Y. Kwon, and H. G. Sohn*, “Distant Object Localization with a Single Image Obtained from a Smartphone in an Urban Environment”, *International Journal of Applied Earth Observation and Geoinformation*, Vol. 111 (2022)
