@@ -35,50 +35,37 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-
 Hello! I am a second-year PhD student in **Geomatics Engineering** at **Purdue University**, working with Prof. Jinha Jung in the [Geospatial Data Science Lab (GDSL)](https://gdsl.org/).
 
 My research focuses on using **remote sensing imagery** and **LiDAR** to monitor environments and infrastructure where field surveys are constrained by scale, accessibility, or time. I am interested in developing automated approaches to turn raw sensor data into spatial information for more efficient monitoring and timely, evidence-based decision-making.
 
 <div class="repositories d-flex flex-wrap justify-content-center">
   <img src="https://img.shields.io/badge/LiDAR-Forestry-green?style=flat-square">
-  <img src="https://img.shields.io/badge/Deep%20Learning-PyTorch-orange?style=flat-square">
-  <img src="https://img.shields.io/badge/Remote%20Sensing-GIS-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/UAV-Photogrammetry-red?style=flat-square">
+  <img src="https://img.shields.io/badge/DL-ML-orange?style=flat-square">
+  <img src="https://img.shields.io/badge/Photogrammetry-UAV-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/Remote%20Sensing-GIS-red?style=flat-square">
 </div>
 
 ---
 ### **Current Research**
-My ongoing research uses UAS LiDAR and multispectral imagery to investigate **emergent trees** in the Ecuadorian Amazon - a prominent yet understudied component of tropical forest structure
-- The high resolution data enables to quantify tree emergence relative to the surrounding canopy at the individual-tree level
-- Develops a data-driven framework for identifying emergent trees, moving beyond heuristic threshold-based definitions
-- Examines how the spatial and structural patterns of emergent trees identified by this framework differ from those derived using conventional heuristic approaches
+My ongoing research uses **UAS LiDAR** and **multispectral imagery** to investigate **emergent trees** in the Ecuadorian Amazon — a prominent yet understudied component of tropical forest structure.
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/emergent_tree.jpg" title="Emergent Tree Research" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Figure: Individual tree crown segmentation and emergence analysis in the Amazon.
+</div>
 
 ---
-> **Education**
-<div class="row">
-  <div class="col-sm-2">2024 - Pres.</div>
-  <div class="col-sm-10">
-    <strong>PhD in Civil Engineering (Geomatics)</strong> <br>
-    Purdue University, West Lafayette, USA
-  </div>
-</div>
-<div class="row">
-  <div class="col-sm-2">2022</div>
-  <div class="col-sm-10">
-    <strong>MS in Civil and Environmental Engineering</strong> <br>
-    Yonsei University, Seoul, South Korea
-  </div>
-</div>
-<div class="row">
-  <div class="col-sm-2">2020</div>
-  <div class="col-sm-10">
-    <strong>BS in Civil and Environmental Engineering</strong> <br>
-    Yonsei University, Seoul, South Korea
-  </div>
-</div>
+> **Education** <br>
+**2024 – Pres.** &nbsp; PhD in Civil Engineering (Geomatics), **Purdue University** <br>
+**2022** &nbsp; MS in Civil and Environmental Engineering, **Yonsei University**, South Korea <br>
+**2020** &nbsp; BS in Civil and Environmental Engineering, **Yonsei University**, South Korea
 ---
-> **How to say my name?** 
-> My name is pronounced **Hyun-Joo**. But feel free to call me **Nora**!
-> -   **Hyun**: like “yon” in *beyond* with an “h” in front, or a quick “hee-yun”
-> -   **Joo**: like “ju” in *juice*
+
+**Note.** Here is how to pronounce my name, ***Hyun-Joo***. But please feel free to call me **Nora**!
+- **Hyun**: like “yon” in *beyond* with an “h” in front, or a quick “hee-yun”
+- **Joo**: like “ju” in *juice*
