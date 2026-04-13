@@ -58,13 +58,12 @@ My ongoing research uses **UAS LiDAR** and **multispectral imagery** to investig
 </div>
 
 ---
-
 <div style="border-left: 4px solid #CFB991; padding-left: 15px; margin-top: 30px; margin-bottom: 20px;">
-  <p style="font-size: 1.15rem; font-weight: bold; color: #333; margin-bottom: 10px;">Education</p>
-  <div style="font-size: 0.95rem; color: #333; line-height: 1.8;">
-    <strong style="color: #333;">2024 – Pres.</strong> &nbsp; PhD in Civil and Construction Engineering (Geomatics), <strong style="color: #333;">Purdue University</strong>, USA <br>
-    <strong style="color: #333;">2022</strong> &nbsp; MS in Civil and Environmental Engineering, <strong style="color: #333;">Yonsei University</strong>, South Korea <br>
-    <strong style="color: #333;">2020</strong> &nbsp; BS in Civil and Environmental Engineering, <strong style="color: #333;">Yonsei University</strong>, South Korea
+  <p style="font-size: 1.15rem; font-weight: bold; margin-bottom: 10px;">Education</p>
+  <div style="font-size: 0.95rem; line-height: 1.8;">
+    <strong>2024 – Pres.</strong> &nbsp; PhD in Civil and Construction Engineering (Geomatics), <strong>Purdue University</strong>, USA <br>
+    <strong>2022</strong> &nbsp; MS in Civil and Environmental Engineering, <strong>Yonsei University</strong>, South Korea <br>
+    <strong>2020</strong> &nbsp; BS in Civil and Environmental Engineering, <strong>Yonsei University</strong>, South Korea
   </div>
 </div>
 
