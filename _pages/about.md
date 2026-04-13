@@ -52,12 +52,13 @@ My ongoing research uses **UAS LiDAR** and **multispectral imagery** to investig
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/emergent_tree.jpg" title="Emergent Tree Research" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/emergent_tree.jpg" title="Emergent tree example" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Figure: Individual tree crown segmentation and emergence analysis in the Amazon.
+    Figure: Emergent tree example
 </div>
+
 
 ---
 > **Education** <br>
