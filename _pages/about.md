@@ -47,7 +47,7 @@ My research focuses on using **remote sensing imagery** and **LiDAR** to monitor
 </div>
 
 ---
-### **Current Research**
+#### **Current Research**
 My ongoing research uses **UAS LiDAR** and **multispectral imagery** to investigate **emergent trees** in the Ecuadorian Amazon — a prominent yet understudied component of tropical forest structure.
 
 <div class="row justify-content-sm-center">
@@ -58,11 +58,11 @@ My ongoing research uses **UAS LiDAR** and **multispectral imagery** to investig
 </div>
 
 ---
-> **Education** <br>
-<div style="font-size: 0.95rem; color: #555; line-height: 1.6;">
-  <strong>2024 – Pres.</strong> &nbsp; PhD in Civil Engineering (Geomatics), <strong>Purdue University</strong>, USA <br>
-  <strong>2022</strong> &nbsp; MS in Civil and Environmental Engineering, <strong>Yonsei University</strong>, South Korea <br>
-  <strong>2020</strong> &nbsp; BS in Civil and Environmental Engineering, <strong>Yonsei University</strong>, South Korea
+
+<div style="font-size: 0.95rem; color: #444; line-height: 1.8; padding-left: 5px;">
+  <strong style="color: #444;">2024 – Pres.</strong> &nbsp; PhD in Civil and Construction Engineering (Geomatics), <strong style="color: #555;">Purdue University</strong>, USA <br>
+  <strong style="color: #444;">2022</strong> &nbsp; MS in Civil and Environmental Engineering, <strong style="color: #444;">Yonsei University</strong>, South Korea <br>
+  <strong style="color: #444;">2020</strong> &nbsp; BS in Civil and Environmental Engineering, <strong style="color: #444;">Yonsei University</strong>, South Korea
 </div>
 
 ---
