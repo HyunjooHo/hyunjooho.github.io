@@ -59,7 +59,7 @@ My ongoing research uses **UAS LiDAR** and **multispectral imagery** to investig
 
 ---
 
-<div style="border-left: 4px solid #76151b; padding-left: 15px; margin-top: 30px; margin-bottom: 20px;">
+<div style="border-left: 4px solid #CFB991; padding-left: 15px; margin-top: 30px; margin-bottom: 20px;">
   <p style="font-size: 1.15rem; font-weight: bold; color: #333; margin-bottom: 10px;">Education</p>
   <div style="font-size: 0.95rem; color: #333; line-height: 1.8;">
     <strong style="color: #333;">2024 – Pres.</strong> &nbsp; PhD in Civil and Construction Engineering (Geomatics), <strong style="color: #555;">Purdue University</strong>, USA <br>
