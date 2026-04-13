@@ -51,22 +51,21 @@ My research focuses on using **remote sensing imagery** and **LiDAR** to monitor
 My ongoing research uses **UAS LiDAR** and **multispectral imagery** to investigate **emergent trees** in the Ecuadorian Amazon — a prominent yet understudied component of tropical forest structure.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/emergent_tree.jpg" title="Emergent tree example" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-8 mt-3 mt-md-0 text-center"> <img src="{{ '/assets/img/emergent_tree.jpg' | relative_url }}" title="Emergent Tree" class="img-fluid rounded z-depth-1">
+        <div class="caption mt-2"> Emergent tree example in a LiDAR point cloud
+        </div>
     </div>
 </div>
-<div class="caption">
-    Figure: Emergent tree example
-</div>
-
 
 ---
 > **Education** <br>
-**2024 – Pres.** &nbsp; PhD in Civil Engineering (Geomatics), **Purdue University** <br>
-**2022** &nbsp; MS in Civil and Environmental Engineering, **Yonsei University**, South Korea <br>
-**2020** &nbsp; BS in Civil and Environmental Engineering, **Yonsei University**, South Korea
----
+<div style="font-size: 0.95rem; color: #555; line-height: 1.6;">
+  <strong>2024 – Pres.</strong> &nbsp; PhD in Civil Engineering (Geomatics), <strong>Purdue University</strong>, USA <br>
+  <strong>2022</strong> &nbsp; MS in Civil and Environmental Engineering, <strong>Yonsei University</strong>, South Korea <br>
+  <strong>2020</strong> &nbsp; BS in Civil and Environmental Engineering, <strong>Yonsei University</strong>, South Korea
+</div>
 
+---
 **Note.** Here is how to pronounce my name, ***Hyun-Joo***. But please feel free to call me **Nora**!
 - **Hyun**: like “yon” in *beyond* with an “h” in front, or a quick “hee-yun”
 - **Joo**: like “ju” in *juice*
